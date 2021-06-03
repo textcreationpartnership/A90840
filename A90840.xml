@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poor Robin's prophecy, for the year 1701 Found several years after his death, hid under an old close-stool-pan. And now publish'd by his executors, to make some people merry, and the rest mad. Containing, comical predictions for every month in the year, carefully calculated, to make both sexes shake their sides till they break their twatling-strings.</title>
+            <author>Poor Robin.</author>
+         </titleStmt>
+         <extent>Approx. 59KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90840</idno><idno type="EEBO-CITATION">99899383</idno>
+  <idno type="VID">153266</idno>
+  <idno type="EEBO-PROQUEST">2240858738</idno>
+  
+            <idno type="STC">Wing P2892A</idno>
+            <idno type="STC">ESTC R229898</idno>
+            <idno type="PROQUEST">99899383</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899383e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153266)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2357:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Poor Robin's prophecy, for the year 1701 Found several years after his death, hid under an old close-stool-pan. And now publish'd by his executors, to make some people merry, and the rest mad. Containing, comical predictions for every month in the year, carefully calculated, to make both sexes shake their sides till they break their twatling-strings.</title>
+                  <author>Poor Robin.</author>
+                  <author>Winstanley, William, 1628?-1698, attributed name.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by M. Fabian at Mercers-Chappel, in Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Winstanley is usually credited with authorship of the "Poor Robin" pamphlets, although imitators wrote some of them.  Cf. NUC pre-1956.</note>
+                  <note>A satire on astrological predictions.</note>
+                  <note>Wing (CD-ROM edition) suggests date of publication as 1700.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Satire, English --  Early works to 1800.</term>
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153266:1"/>
+            <p>Poor Robin's PROPHECY, For the Year 1701.</p>
+            <p>Found several Years after his Death, hid under an old Close-Stool-Pan.</p>
+            <p>AND Now Publish'd by his Executors, to make some People Merry, and the rest Mad.</p>
+            <p>CONTAINING, Comical Predictions for every Month in the Year, care<g ref="char:EOLhyphen"/>fully calculated, to make both Sexes shake their sides till they break their twatling-strings.</p>
+            <lg>
+               <l>If Revolutions, Plagues, and Wars,</l>
+               <l>Can be foreseen by wand'ring Stars,</l>
+               <l>Let me presume to tell you then,</l>
+               <l>Strange things will happen G—d knows when.</l>
+               <l>Amazing Wonders, yet unknown,</l>
+               <l>To e'er a Conjurer in Town;</l>
+               <l>Or any fumbling Planet-gazer.</l>
+               <l>Tho' old and wise as <hi>Albamazar.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>M. Fabian</hi> at <hi>Mercers-Chappel,</hi> in <hi>Cheapside.</hi> 1671.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:153266:2"/>
+            <head>Books lately Published.</head>
+            <p>A Journey to H—, or a Visit paid to the D—: A Poem.</p>
+            <p>The First and Second Parts.</p>
+            <p>Directions to Parents for the Education of Children in this Lapsed Age.</p>
+            <p>Both Sold by <hi>M. Fabian</hi> at <hi>Mercer</hi>'s-Chappel in <hi>Cheapside.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:153266:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>WIth the use of very little <hi>Astrology,</hi> I have un<g ref="char:EOLhyphen"/>dertaken to Prognosticate many Passages and Transactions, which, in all probability, will happen in this first Year of the Eighteenth Century; for I confess I never took up a Lodging in any of the Twelve Houses, or have I serv'd seven Years to a Fortune-teller, yet I hope an Ass may have the li<g ref="char:EOLhyphen"/>berty of Prophecying, without having a <hi>Balaam</hi> to his Master.</p>
+            <p>My Name has been famous for my <hi>Almanacks</hi> throughout <hi>England,</hi> for above this Thirty Years, tho' I never writ one in my Life, and have been dead this three Years; yet, if you will believe me a living Christian, I never told the World any thing but Truth, ever since Lying has been fashionable.</p>
+            <p>I have often predicted very strange things, to my Country's great satisfaction, and wrote many Intel<g ref="char:EOLhyphen"/>ligences some Years since, to the Town's diversion; yet I may honestly say this in my own behalf, that
+<pb facs="tcp:153266:3"/> I never design'd any thing, but to make People foolishly Merry, without being a jot the wiser.</p>
+            <p>The main design of this my Prophecy, I had al<g ref="char:EOLhyphen"/>most forgot to remember; but, as true as I'm dead and rotten, now I recollect my self, it was only to put the World in mind of me, when I was under<g ref="char:EOLhyphen"/>ground, lest an ungrateful Age should bury me in Oblivion.</p>
+            <p>I had always, when I was living, an Itch after Popularity; and now I'm dead, as true as the Worms have devour'd me, I cannot rest quietly in my Grave without I hear People talk of me; therefore I always took delight in Scribling, sometimes Prose and sometimes Poetry, that, like some other dead <hi>Bards,</hi> I might live for ever.</p>
+            <p>These Papers I have left behind me, being the excrement of my Brain, I thought fit to hide them under a <hi>Close-Stool-Pan,</hi> that when ever they came to light, they might make People laugh till they besh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t themselves. I have very little to say in the praise of this my last Legacy, only, as I told you before, what I have here foretold you, will all prove true, or else take me for a Lyar. So farewel.</p>
+            <closer>
+               <signed>
+                  <hi>Yours,</hi> &amp;c. <hi>Poor Robin.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153266:3"/>
+            <head>
+               <hi>POOR ROBIN</hi>'s PROPHECY, for the Year <hi>1701.</hi>
+            </head>
+            <div type="month">
+               <head>JANUARY.</head>
+               <epigraph>
+                  <q>
+                     <l>This Month keep near the Fire, or you will find,</l>
+                     <l>Your Noses Frost-nip'd, with a sharp cold Wind.</l>
+                     <l>And as for those who in Love's Sports engage,</l>
+                     <l>A warm Bed's better than beneath a Hedge.</l>
+                  </q>
+               </epigraph>
+               <p>ON the first Day of this Month, will be given many more Gifts than will be kindly receiv'd, or grate<g ref="char:EOLhyphen"/>fully rewarded. Children, to their inexpressible Joy, will be drest up in their best Bibs and A<g ref="char:EOLhyphen"/>prons, and may be seen handed along Streets, some bearing <hi>Kentish</hi> Pippins, others Oranges stuff'd with Cloves, in or<g ref="char:EOLhyphen"/>der to crave a Blessing of their Godfathers and Godmothers. Flatterers will be very busie in bestowing their small Presents, where they are well assur'd of greater in return. Hypocrites in Churches will be ostentatiously liberal to the Poor's Box: And Poets fulsome Panegyricks will be more costly to their Patrons, than a Lawyer's Breath to a warm Client, or a Physician's Visit to a rich Patient.</p>
+               <p>I cannot foresee, by the Stars, that any thing will re<g ref="char:EOLhyphen"/>markably happen till the <hi>Monday</hi> following; which, tho' it prove but the sixth of the Month, yet, in respect to the Holy dozen of Apostles, it will be called <hi>Twelfth-Day,</hi> a warm spicy <hi>Arabian</hi> Breeze will blow thro' <hi>Wood-street,</hi> from
+<pb n="2" facs="tcp:153266:4"/> early in the Morning, till late at Night; the wonderful Climate of which place, will be worth the greatest Travel<g ref="char:EOLhyphen"/>lers Observation; for their Cakes, tho' drawn hot out of the Oven, will at the same time appear Ic'd all over. The great Affairs of this Evening will be very strangely canvas'd, many a real <hi>Knave</hi> will be honour'd with the title of <hi>King,</hi> many a <hi>Slut</hi> be saluted with the Dignity of <hi>Queen,</hi> many an <hi>honest Man</hi> be laugh'd at for a <hi>Knave,</hi> and many a <hi>cleanly Damsel</hi> be disparag'd with the Name of <hi>Slut.</hi> Much Drinking, Kissing, Card-playing, and Merriment till Twelve at Night; and great dancing of Father <hi>Adam</hi>'s Jigg, both in <hi>London</hi> and the Country, all Night after.</p>
+               <p>The next remarkable Day in this Month, is the <hi>Twenty third,</hi> upon which the Farmers of the Law open their <hi>Hilary</hi>-Harvest, in order to reap the benefit of that Con<g ref="char:EOLhyphen"/>tention sown between <hi>Knaves</hi> and <hi>Fools;</hi> who, because they are Rich, oftentimes fall out, and will never be made Friends till the <hi>Lick-pennies</hi> of the Law have made 'em poorer. Many a promoter of Differences distinguish'd by a diminutive Band, will see several golden Apparitions every Morning, except <hi>Sundays,</hi> for this three Weeks, without being frighted; and many an empty <hi>Black-Jack</hi> will be tipt with Silver, who can say but little to the purpose. Stu<g ref="char:EOLhyphen"/>dents, during the Term, will return every Day from <hi>West<g ref="char:EOLhyphen"/>minster,</hi> to their respective Inns of Courts by Twelve, sit down with hungry Stomachs to their Commons, about half an Hour after, and eat as heartily as so many ravenous Bum<g ref="char:EOLhyphen"/>kins, at a Feast of Harvest-Home, whilst the Steward stand<g ref="char:EOLhyphen"/>ing by peeps over 'em with as evil an aspect as the Devil look'd over <hi>Lincoln,</hi> wishing heartily, in his Thoughts, the Lord who sent 'em Food, wou'd be pleas'd to take away their Stomachs. Many a contentious <hi>Coridon</hi> will sell a Barn full of Wheat to contend for a Straw, whilst the wise Men of the Law will laugh such Fools out of their Livings,
+<pb n="3" facs="tcp:153266:4"/> as cannot keep their seditious Spirits from wronging their Neighbours.</p>
+               <p>On the <hi>Thirtieth</hi> of this Month, some sanctified Chips of the Rebellious old Block, will keep a <hi>Calves-Head</hi> Feast, in derision of the Sufferings of the blessed <hi>English</hi> Martyr, over which they will saucily talk Treason, drink Confusion to Monarchy, wish Prosperity to a Common-wealth, com<g ref="char:EOLhyphen"/>memorate the Villanies of their Ancestors, and highly com<g ref="char:EOLhyphen"/>mend the good old Pious Times of Anarchy, Domestick Wars, and Depopulation: whilst all better Christians will repair to their Parish Churches, endeavour to avert, with Prayers, Heaven's Vengeance for the black Offence, and beg the Protection of the Almighty from the like Disorders.</p>
+            </div>
+            <div type="month">
+               <head>FEBRUARY.</head>
+               <epigraph>
+                  <q>
+                     <l>He who would, in this Month, be warm within,</l>
+                     <l>And, when abroad, from Wet defend his Skin,</l>
+                     <l>His Mornings draught should be of <hi>Sack</hi> or <hi>Sherry,</hi>
+                     </l>
+                     <l>And his Great Coat be made of <hi>Drab-de-berry.</hi>
+                     </l>
+                  </q>
+               </epigraph>
+               <p>'TIS not without reason this Piss-tail Month is call'd, by all rural Observators of the Weather, <hi>February-fill-Dike;</hi> for Country-Attorneys will find such unwholsome Travelling to <hi>London,</hi> about the middle of this Term, that there will be as much Coughing as Lying in <hi>Westminster-Hall,</hi> in spight of hot <hi>spic'd Ale, Methridate,</hi> or <hi>Venice-Treacle.</hi>
+               </p>
+               <p>I find by the Sun's entrance into <hi>Pisces,</hi> upon the <hi>Eighth</hi> of this Instant, that Fishmongers, if they ben't narrowly look'd after, will go down in Wherries much in this Month, but more in the two following, to <hi>Gravesend,</hi> in order to fore-stall the Fish-market at <hi>Billingsgate,</hi> to the profit of
+<pb n="4" facs="tcp:153266:5"/> themselves, and prejudice of the Publick, whilst their scold<g ref="char:EOLhyphen"/>ing Adversaries, the Thumb-ring'd Flat-Caps, thro' their Christian-Charity, will pray, that Providence will send some of the Woollen-Apron Fraternity to fat <hi>May-Crill</hi> against next Season, before they come back again, for their un<g ref="char:EOLhyphen"/>lawful Practices.</p>
+               <p>The cold Rains that are likely to fall about the begin<g ref="char:EOLhyphen"/>ning and middle of this Month, will so chill the Hearts of abundance of out-side Christians, towards all manner of Be<g ref="char:EOLhyphen"/>neficence, that Charity in the Street may beg two hours of a Clergy-man, before she will get the Tythe of Two-pence-half penny, to succour her Babes: And a Client in <hi>Forma Pauperis</hi> have a just Cause depending till he's quite cozen'd of his Right, before he will find Honesty in a Lawyer, with<g ref="char:EOLhyphen"/>out a full Fee; or Justice to be had without paying for't.</p>
+               <p>On the <hi>Twelfth</hi> of this Month, the Cormorants of the Law shut up their Shops of Equity and Common-Justice, at their usual Market-place, where neither of the precious Commodities will be to be bought or sold till after <hi>Easter;</hi> and Lawyers will now be as scarce to be found in <hi>Heaven,</hi> during the <hi>Hilary</hi> Vacation, as a protected Debtor in the <hi>Palace-Yard,</hi> above forty Days after the Dissolution of a P—.</p>
+               <p>As for the remainder of the Month, if the Snow happen to fall but a Foot thick, there are like to be seen in <hi>Fleet-street, Cheapside,</hi> and <hi>Cornhill,</hi> such an amazing Train of formidable Monsters, as <hi>Bulls, Bears, Lyons, Dragons,</hi> &amp;c. that many Citizens will be afraid to stir out of their Houses, and walk up as far as the <hi>Poultry-Compter</hi> for fear of being snap'd; and at last will be so abominably frighted, that they'll be forc'd to cross the Water to the <hi>King's-Bench-Rules,</hi> or else fly to <hi>Ludgate</hi> for Sanctuary; and many a Watch-man, in the Night, in <hi>Bishopsgate-street,</hi> or <hi>White-Chappel,</hi> will be
+<pb n="5" facs="tcp:153266:5"/> glad to creep into a Hovel made of frozen Snow to defend himself from the coldness of the Weather.</p>
+            </div>
+            <div type="month">
+               <head>MARCH.</head>
+               <epigraph>
+                  <q>
+                     <l>This Month, Physicians Fees come in apace,</l>
+                     <l>And Patients flock in shoals to Doctor <hi>Case.</hi>
+                     </l>
+                     <l>Old Sinners will their painful Shin-bones rub,</l>
+                     <l>Ʋntil made easie by the Powd'ring-Tub.</l>
+                  </q>
+               </epigraph>
+               <p>
+                  <hi>MARCH,</hi> according to its usual Custom, will make its terrible entrance so like a roaring Lyon, that it will go near to scare the Powder out of every <hi>Beau</hi>'s Wigg, that exposes himself to its Fury, to the blinding of many People who walk behind 'em, if they run not the hazard of breaking their Necks, by stumbling along with their Eyes shut.</p>
+               <p>Few Ladies, beneath the Quality of a Coach, will care much for visiting till this Month be over, but stay at home and save their Commodes for calmer Weather; besides, they wisely think it is subject, like themselves, to such Changes and Uncertainties, that they dare not venture to trust them<g ref="char:EOLhyphen"/>selves abroad in't: And as for such Women who are forc'd to face its blusters, in the open Street; if they don't take care to wear Plummets, in the bottom of their Petticoats, as well as in their Gown-sleeves, they may chance to show what colour their Th—s are on, before they come home again.</p>
+               <p>A great difference will arise, and bloody Wars be pro<g ref="char:EOLhyphen"/>cla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m'd between <hi>Cocks</hi> and <hi>Coxcombs,</hi> about the beginning of this Month; but the Day appointed for the great pitch'd Battel, will be the <hi>Fifth,</hi> upon which there will be much breaking of Shins amongst Porters, Coblers, Weavers,
+<pb n="6" facs="tcp:153266:6"/> Journey-men Taylors, and Prentices, and a great slaughter of Warlike <hi>Chanticleers</hi> in the <hi>Ʋpper-Moorfields.</hi> The fata<g ref="char:EOLhyphen"/>lity of this Contention, as in most other Wars, will fall the heaviest upon the most Brave, for many a Cuckoldly-Cow<g ref="char:EOLhyphen"/>ard will knock down a nobler Enemy than himself, and sell him into further Slavery; and many a cruel Com<g ref="char:EOLhyphen"/>batant will be so barbarous to his Adversary, as to kill him first, and, Cannibal-like, devour him afterwards.</p>
+               <p>Eggs and Apples will be as valuable Commodities, on the same Day; as Brandy and Tobacco on Board a Ship: And the Cholerick Tenders of the Dripping-Pan will lay a heavy Tax upon the droppings of their Roast-Beef, to the great Oppression of His Majesty's poor Subjects. Pancakes and Fritters will be as highly in esteem, as Custard upon my Lord-Mayor's Festival: And boil'd Cock and Bacon, amongst those that can get it, will be as fashionable a Dish, as Chine and Turkey at <hi>Christmas.</hi>
+               </p>
+               <p>When <hi>Shrove-Tuesday</hi>'s over, Old-Ling, Oyl, and Mu<g ref="char:EOLhyphen"/>stard, will be very much in request in all <hi>Roman-Catholick</hi> Families; yet many a good Christian, who is bound Pren<g ref="char:EOLhyphen"/>tice, by his Priest, to a Fishmonger, but for Seven Weeks, will be so grievously troubled with the Lust after the Flesh, that he'll go near to cozen Infallibility in a Corner, and forfeit his Indentures before half his time be expir'd; and, with a <hi>By your leave Mr. Pope,</hi> mittigate the severity of his Penance, with a slice of Roast-Beef in a strange Cook's Shop, believing himself never the worse, since his Priest is never the wiser.</p>
+               <p>Many Holy Fathers will so over-heat themselves in this and the next Month, by Confessing of Harlots, that their Crowns, in a little time, will grow bald of their own accord, to the great impoverishing of a great many Barbers. A<g ref="char:EOLhyphen"/>bundance of poor Butchers, who must be forc'd to live upon the Borrow till <hi>Lent</hi> be over, will be as great Enemies
+<pb n="7" facs="tcp:153266:6"/> to this Melancholy Fast, as those good Christians are to the merry Festival of the Nativity, who call <hi>Christmas, Christmas.</hi>
+               </p>
+               <p>On the <hi>Tenth</hi> of this Month, the Sun will have conquer'd his Twelve Labours, and make his re-entrance upon the first Minute of the Equinoctial Sign of the <hi>Ram,</hi> whose Horns stand at such a distance, that they divide the Day and Night into an equal proportion: It may be heartily wish'd, the Horns of our Citizens would measure out their Dealings with as much Justice; but instead of that, I plainly foresee, if not by the Stars in the Heavens, by their vile Practices on Earth, that as long as there's a rich Tradesman in his Shop, there's a K— not far from his Counter; and as long as he has a pretty Wife in his House, it will be no hard matter to find a C—d in his Family.</p>
+               <p>
+                  <hi>Aquarius</hi> being a liquid Sign, and chief Water-Bayliff over all the Rivers in the Universe, foresheweth, that <hi>Southwark</hi>-Brewers, as well as those in <hi>Thames-street</hi> and <hi>Westminster,</hi> will make great havock of <hi>Thames</hi> Water in their <hi>March</hi>-Beer, incurring the backward Prayers of all Carr-men, Coach-men, Water-men, <hi>&amp;c.</hi> for drowning their Malt in too great a quantity of Liquor; to the weakening also of strong-back'd Porters, Cole-heavers, and Dray-men, who proportion the weight of what they carry, to the strength of what they drink; so that if the Kn—y of Brewers ben't timely pre<g ref="char:EOLhyphen"/>vented, by the worshipful Company of <hi>Ale Conners,</hi> we shall have our Strong-Drink be made as weak as Water; the Gyants of our Age become as puny as Pigmies; and the Brewers take their Horses out of their Drays, and put 'em into their Coaches.</p>
+               <p>On the 25th. many Sums will become due that will never be paid; and many a crabbed Curmudgeon, instead of his Rent, will find nothing but the Key under the Door, and an empty House to distrain on. Much dishonesty will be us'd by Tenants, and as great severity by Landlords; yet many
+<pb n="8" facs="tcp:153266:7"/> who expected their <hi>Lady-Day</hi>'s Rent, would be well content if the Lord would send it 'em by that time Twelve-month.</p>
+            </div>
+            <div type="month">
+               <head>APRIL.</head>
+               <epigraph>
+                  <q>
+                     <l>The Stone-Horse and the Bull now rampant grow,</l>
+                     <l>And Maids, to silence, turn their modest No.</l>
+                     <l>Which shows, the Heart's consenting to the bliss,</l>
+                     <l>And serves as well as if she'd answer'd Yes.</l>
+                  </q>
+               </epigraph>
+               <p>IN the beginning of this Month there will be great re<g ref="char:EOLhyphen"/>petition in Coffee-Houses of many excellent Sayings, glean'd by sober Christians, out of the notable Sermons of the <hi>Lent-Preachers.</hi> Much searching after <hi>Old-Ling</hi> at <hi>Moll Quarles</hi>'s, and Mother <hi>Cook</hi>'s, by the young Limbs of the Law, who will go near to find the Oil so rank, and the Mustard so strong, that it will be apt to bite 'em by the Nose, if they dabble much in Sauce.</p>
+               <p>Many superstitious Zealots, towards the latter end of <hi>Lent,</hi> will look as thin with keeping on't, as a tail-bitten Sinner, just risen from a Flux; and many will have the Prudence to take the opportunity of this Fasting-season, to mortifie themselves into a recovery of that evil Distemper, which be<g ref="char:EOLhyphen"/>gins in the middle, and often plagues both ends, if not timely prevented.</p>
+               <p>On the 9th. of this Month, the Sun enters <hi>Taurus,</hi> by which is portended great Fortune to Cuckolds, insomuch that they will never believe the wickedness of their Wives, except they see it; and will always have the luck, by their Jewel's management, to be far enough out of the way when<g ref="char:EOLhyphen"/>ever their Horns are grafted; so that he who will believe himself no Cuckold, unless he actually sees it, will doubtless
+<pb n="9" facs="tcp:153266:7"/> be a Buck to his Wife's Content, long enough before he is likely to know any thing of the matter; so that C—m will be advanc'd into most marri'd Families in <hi>London;</hi> yet Men and their Wives live as peaceably together, as if the Ver<g ref="char:EOLhyphen"/>tue of the one, was as great as the credulity of the other.</p>
+               <p>
+                  <hi>Good-Friday,</hi> I foresee, will prove but a very bad Day with such poor Christians, that have neither a Cross-Bun to put in their Bellies, nor a Cross to put in their Pockets, they may happen, for ought I know, to make a Virtue of neces<g ref="char:EOLhyphen"/>sity, and suffer Abstinence all Day, like good Christians, because they can't help it; for I cannot foresee by the Planets, where they will break their Fast.</p>
+               <p>On the 19th. being the <hi>Saturday</hi> before <hi>Easter,</hi> I find by a mercenary Planet, enter'd into the Sign <hi>Libra,</hi> there will be great handling of Scales, tho' with very little Justice, in most Grocer's Shops about Town, in weighing out of Plumbs and Spices for <hi>Easter-Sunday</hi>'s Puddings, Lamb-Pies, <hi>&amp;c.</hi> Chamber-Maids will smell so of Brimstone, with clear<g ref="char:EOLhyphen"/>ing their Ladies Muslins, and Cook-wenches stink so of scowring Oil, that the Butler must run the hazard of Sneezing, when he Kisses the former; and the Footman wont dare to give the latter a Lip-token of his Love, with<g ref="char:EOLhyphen"/>out his Frock on, for fear of incurring his Lady's displea<g ref="char:EOLhyphen"/>sure, by greasing his new Livery. A great deal of stew'd Beef will be devour'd in good <hi>Protestant</hi> Families; but strict Fasting among some <hi>Roman Catholicks,</hi> to the last Hour of <hi>Lent,</hi> partly upon the account of Religion, and partly thro' double Taxes.</p>
+               <p>On the next Day, being <hi>Easter-Sunday,</hi> Thousands will assert, before Ten a Clock, they see the Sun as merry as a Morris-Dancer: More Looking Glasses will be brought into the Street, than will find their way home again unbroken; and more Lies be told in this one Morning, about what Capers the Sun cut, than were ever told in <hi>Westminster-Hall,</hi>
+                  <pb n="10" facs="tcp:153266:8"/> in two Terms, or printed in a whole Twelve-month. The Churches in the Afternoon, will be every where very full; for as many, especially Women, will repair thither to show their new Finery, as to edifie from the Doctrine of the Day.</p>
+               <p>Also great puffing of Locks from Seven till Nine in the Morning, to the great consumption of sifted Lime, as well as perfum'd Powder; and many a poor Whores Fore-top, for want of a <hi>Saturday</hi>'s Cully, will be beholding to the Drudging-Box. Great enquiry amongst Old Women and Apprentices after the Text, in most Churches about <hi>London.</hi> After Ten, much spoiling of Scripture Pages, by turning down to the Proofs with horny Thumbs and clumsie Fist, till after Eleven. Great sopping in the Dripping-Pan, amongst Apprentices and Serving-men till Twelve. Much masticati<g ref="char:EOLhyphen"/>on all over <hi>England,</hi> till One, or after. Loud snoring in Churches, with full Bellies, in the Afternoon.</p>
+               <p>
+                  <hi>Islington,</hi> for the most part of this Week, will be so over<g ref="char:EOLhyphen"/>run with Journey-men, Apprentices, and Servant-wenches, that many a loving Couple will be forc'd to cool their A—s in an open Yard, who design'd to allay the heat of their Premises by other means, if they had but opportunity. Great num<g ref="char:EOLhyphen"/>bers of the Strap-Order of St. <hi>Crispin,</hi> may be seen occupy<g ref="char:EOLhyphen"/>ing the Shovel-boards, and Nine-pins, in most Villages near <hi>London.</hi> Bottle-Ale and Cake, hot Buns, and some Butter'd, will slip down as merrily, as fat Pork down the Gullet of a hungry Traveller: And old Women will fold up their Red Petticoats in great order, till the next good time, as soon as the Holidays are over.</p>
+               <p>Great doings at <hi>Windsor</hi> will happen on the 23d. being St. <hi>George</hi>'s-Day, a very gay Assembly of Noble Lords will be very much admir'd by a glorious Train of Beauteous Ladies, and both gaz'd at like so many Gods and Goddesses, by inferiour Spectators; each Noble K— in his Diamond-Garter, will be apt to think (notwithstanding the Solemnity)
+<pb n="11" facs="tcp:153266:8"/> from whence the Dignity was at first deriv'd; and when once his Thoughts are crept up as high as a fair Ladies Gartering-place, if he be not restrain'd by more than ordi<g ref="char:EOLhyphen"/>nary Virtue (which indeed is commonly the Gift of Great Men) he will go nigh to elevate his Thoughts a little higher, notwithstanding the severe threatnings of the <hi>Motto.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>MAY.</head>
+               <epigraph>
+                  <q>
+                     <l>This Month reigns Beauteous Goddess of the Spring;</l>
+                     <l>And to its Beauty does kind Nature bring,</l>
+                     <l>Lovers, in Fields, will enter into Leagues,</l>
+                     <l>And blooming Hedges hide their sweet Intrigues.</l>
+                  </q>
+               </epigraph>
+               <p>MOst Damsels, who, on the first of this Month, rise by Five a Clock in the Morning, to ramble into Woods a <hi>Maying,</hi> had best ease themselves of a heavy bur<g ref="char:EOLhyphen"/>then they are glad to be rid of, and leave their Maidenheads behind 'em, that they may go out the lighter Housewives; for those that carry it with 'em, for fear it should be lost, will have as hard a matter to bring it home again, with<g ref="char:EOLhyphen"/>out scattering on't under some Hedge or other, as they would have to carry half a Pound of Butter under each Arm-pit, without melting on't before they came back again.</p>
+               <p>On the same Day, and the next following, Milk-maids will put on their double-soal'd Dancing-shooes, in contempt of <hi>Spanish</hi> Leather Pumps; and will be loaded with so much Plate upon their Heads, that if their Heels should chance to run away with it, they would ruin as many Families as the breaking of the Bank of <hi>England,</hi> or shuting up of the <hi>Ex<g ref="char:EOLhyphen"/>chequer.</hi> Much sweating of Udders, and rigling of plump Buttocks before every bodies Door that has but a Milk-sop in their Family; and most laborious scraping amongst blind Fidlers, to no Tune, till the second Day be over.</p>
+               <pb n="12" facs="tcp:153266:9"/>
+               <p>On the 7th. Day begins the Lawyers <hi>Easter</hi>-Offering, where Clients must be sure to come with their Pockets full of Money, or return with their Hearts full of Grief. Small Troubles in <hi>Westminster-Hall,</hi> will be rowl'd about from one Court to another, till, Snowball-like, they gather into a Load, enough to break the Back of him who is bound to support it. Much business will be dispatch'd this Term, in order to make further mischief: And poor Clients will have scarce Vacation enough to gather Breath in, before another Term will catch them by the Purse-strings; therefore I'd advise 'em to take care of themselves, lest they buy Patience enough at a dear rate, to hear a Lawyer call'd Knave behind his back, without taking up the Cudgels to revenge the Injury.</p>
+               <p>On the 10th. the Sun with considerable Power, enters in<g ref="char:EOLhyphen"/>to the Twin-Sign <hi>Gemini,</hi> by which I have good reason to guess, that poor Men, who are least able to provide for 'em, will get Children by pairs, whilst rich Men would be glad to have 'em single; and that there will be more squauling of Brats in one Cottage, in <hi>Kent-street,</hi> where the Wife is not past Child-bearing, than in many two Noblemens Families in <hi>St. James's-Square,</hi> to the great discomfort of their Ladies; yet notwithstanding many a marri'd Couple will want the fruits of their Labour to Inherit their Possessions. Multitudes of Bastards will be begot in Fornication, by those who han't a shilling to maintain 'em, to the pleasure of their Parents, tho' to the plague of the Parish.</p>
+               <p>Gardeners and <hi>Kentish</hi>-Pippin Planters pray more in this Month, than in any other Season in the Year, against high Winds, Blasts, and Frosty Mornings, till their Fruits are knit and past danger; and then they can sleep as quietly as a Farmer after a good Harvest, without troubling themselves to say so much as Lord have Mercy upon 'em, between that and <hi>Christmas.</hi>
+               </p>
+               <p>The last remarkable Day that happens in this Month,
+<pb n="13" facs="tcp:153266:9"/> is the 29th. being the Nativity and Restauration of that worthy Prince, of Pious Memory King <hi>Charles</hi> II. On this Day there will be much talk amongst the Whigs, of Ma<g ref="char:EOLhyphen"/>dam <hi>G—,</hi> and the Dutchess of <hi>Portsmouth,</hi> and the sham War against <hi>France,</hi> tho' they have had one since in good earnest. Adultery and Fornication will be grievously rail'd against in some Coffee-Houses in the City, by a parcel of <hi>Super-annuated</hi> Letchers, who us'd it very much in their Youth. Many bitter words, by ill Men, will be ill spoke; and further it will be violently asserted, Its more for a King<g ref="char:EOLhyphen"/>dom's Good, that a Prince should maintain an Army at a National Charge, than a Mistress or two at his own.</p>
+               <p>
+                  <hi>Cromwell, Bradshaw,</hi> and <hi>Ireton</hi> wont quite be forgotten; and many a backward Prayer, by many a forward Cuckold, will be given the brave and inobliviated <hi>Monk,</hi> for bringing in his Royal Master, causing the <hi>Rump</hi> to be roasted, and making the <hi>Oliverian</hi> Party piss backwards.</p>
+            </div>
+            <div type="month">
+               <head>JUNE.</head>
+               <epigraph>
+                  <q>
+                     <l>Maids will their Smocks turn up above their Knees,</l>
+                     <l>In this warm Month, to persecute the Fleas:</l>
+                     <l>Whilst some Arch Youth, thro' cranny peeps with wonder,</l>
+                     <l>To see the strange faw thing that's hidden under.</l>
+                  </q>
+               </epigraph>
+               <p>FRom the second of this Month, those that love Law, and want Money to spend in it, will have little above a Fortnights time to provide it against next Term; and those that happen to have the wrong Sow by the Ear, will be ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y apt to curse the shortness of the Vacation.</p>
+               <p>Notwithstanding the warmth of the Season Women will be as loath to lie without their Husbands, or somebody else in their room, they may like better, as if it was as cold as at <hi>Christmas;</hi> and will be as angry with any body that
+<pb n="14" facs="tcp:153266:10"/> should preach up the Doctrine of Forbearance in hot Weather, as a Woman you should Complement, and tell her her Breath stinks, or that she'ad a Face like a Monkey.</p>
+               <p>The Eighth of this Month, if there be any Truth in an Almanack, will prove <hi>Whitsunday;</hi> upon which Day many will put on New-Cloaths, that could not get 'em at <hi>Easter.</hi> More bodily Sustenance will be taken in at the Mouth, in one Hour at Noon, than spiritual Food in at the Ears all Day long. Much walking in the Fields, after Sermon, by Women and their Husbands; and more Cuckolds to be found at the <hi>Horns</hi> at <hi>Pancrass,</hi> than honest Men in <hi>Long-Lane</hi> any day in the Week.</p>
+               <p>As for the rest of the Holidays, they will be spent very slavishly by some, and very lasily by others; for many will labour at Nine-pins till they sweat, purely to avoid Working: And many loiter about the Fields, without a Peny in their Pockets, rather than spoil a Holiday to supply their Wants, by their accustomary Labour. The common People will grow so very Hoggish, that in spight of <hi>Jews,</hi> they'll devour more Gammon of Bacon at the adjacent Villages, in one Day, than ever has been eat in <hi>Scotland</hi> since the Union of both Kingdoms. Many wrangling Disputes will happen abroad between Man and Wife, about, whether two two-penny Cakes are not better than a Groat Cheese-cake; and whe<g ref="char:EOLhyphen"/>ther a single Pot of Ale for three-half-pence, is not much cheaper than the same quantity for three-pence put into a Stone Bottle, and ripen'd in an Oven. If you would know whether the Grey-Mare be the better Horse, observe who carries the Child: And a poor-spirited Cuckold may be known from the rest of his Neighbours, by carrying his Wife's Pattens.</p>
+               <p>The 11th. of this Month, if Astronomers are not short in their Judgment, will be the longest Day in the Year; upon which, the Sun taking up his Inn in the Solstitial Estival
+<pb n="15" facs="tcp:153266:10"/> Sign <hi>Cancer,</hi> according to Astronomical Computation, begins the Summer; but as for my part, I rather conclude, that Summer makes her entrance into our Horizon, when the Weather is found so warm, that Beggers quit their Barns, and sleep under the Hedges; and when a hot-breech'd Lady may cool her Buttocks upon the Grass, without the danger of an Ague.</p>
+               <p>Mumpers and Cadators will now set forth to go their several Circuits. The Weather, towards the middle of this Month, will prove so very warm, that abundance of Cloaks and Muffs will take up a Lodging at the Brokers till next Winter. And many insolvent Citizens will find it so very hot upon Change, that they'll choose rather to leave the Kingdom than endure it; yet he that will trouble himself to enquire into the matter, shall find Men frozen towards Ho<g ref="char:EOLhyphen"/>nesty and Justice; and Charity to be still as cold as in the depth of Winter.</p>
+               <p>On the 20th. of this Month, the third of the fourth great Plagues of the Year, will begin to seize the Purse-strings of the Publick, creep into the Hoards of the Litigious, and ferret out the Money from the Pockets of spightful Adver<g ref="char:EOLhyphen"/>saries so fast, that many Opponents will be weary of their Cause, before they have proceeded half way to a Trial.</p>
+               <p>The Pole-Cats of the Law will claw many a Man out of his own Hole, and force him into a worse, before the Term be over. And many a cross grain'd Bumkin, who has vow'd revenge upon his Neighbour, tho' it cost him all he's worth, will be made as good as his Promise, before his At<g ref="char:EOLhyphen"/>torney has done with him, if he has not more Wit than his Lawyer Honesty.</p>
+               <p>About the latter end of this Month, Citizens Wives will be mighty out of order, and nothing will restore 'em to their for<g ref="char:EOLhyphen"/>mer ease and quietness, but drinking <hi>Epsom-Waters;</hi> with their Husbands consent they will flock thither in great numbers,
+<pb n="16" facs="tcp:153266:11"/> where, instead of mending, they will grow worse and worse; and tho' with dissembled Looks they can outwardly appear much better to their Spouses, yet were their Hearts to be examined where their Distemper lies, they would be still found as ill Women as ever they were.</p>
+            </div>
+            <div type="month">
+               <head>JULY.</head>
+               <epigraph>
+                  <q>
+                     <l>The thirsty Traveller this Month will fry,</l>
+                     <l>And <hi>Northern</hi> Maids without their Smocks will lye.</l>
+                     <l>The Country Lass on Hay-Mow hugs her Clown,</l>
+                     <l>VVhilst Lords kiss Ladies on their Beds of Down.</l>
+                  </q>
+               </epigraph>
+               <p>A Little after the beginning of this Month, many a Clients Troubles will have an end, and many a Law<g ref="char:EOLhyphen"/>yers Vexation beginning; for that terrible Persecutor of Vintners, Victuallers, Whores, and Pettifoggers, the <hi>Long-Vacation,</hi> will follow the heels of <hi>Trinity</hi>-Term, and begin to show its Teeth, threatning many of the Sons of Parchment with empty Pockets and small Credit between that and <hi>Mi<g ref="char:EOLhyphen"/>chaelmas.</hi> There will be great Complaints by that this Month be over for want of Trade, and greater for want of Money: Physicians will follow the Gentry, to the <hi>Bath</hi> and <hi>Tunbridge,</hi> as Vultures do Armies for a Prey; the former feeding upon sick Bodies, as the latter do upon dead ones.</p>
+               <p>All sorts of Tradesmen will now begin to be more than or<g ref="char:EOLhyphen"/>dinary civil to their Customers, and to use that breeding to<g ref="char:EOLhyphen"/>wards their Neighbours, which is only practicable with 'em in a long Vacation. A Vintner shall give you more <hi>Welcomes</hi> for a Pint of Wine, than a Gallon in <hi>Hilary-Term.</hi> And a Seamstriss shall bring an Inns of Court Gentleman a Neckcloth and Ruffles home to his Chamber, without making a word of Scruple, or so much as tying him up in a Protestation to be Civil.</p>
+               <pb n="17" facs="tcp:153266:11"/>
+               <p>Great Complaints will be made by People that lett Lodgings in <hi>Drury-Lane,</hi> for their Tail-trading Tenants will have so little to do, that they wont be able to earn a Week's Rent in ready Money in a Month, for the emptiness of the Town, and the distressed number of their Quality, will make their Sex so cheap a Commodity, that, like <hi>May Crill</hi> six a Groat, no Men of any Fashion will think 'em worth their purchasing; for visci<g ref="char:EOLhyphen"/>ous Delights, like Food or Rayment, when fallen to a low Price, become contemptible.</p>
+               <p>
+                  <hi>Moorfields,</hi> for this and the next Month, shall have a many Cover-sluts spread over its Verdency, and appear all in white to do Penance for the Sins of its Inhabitants; for the Shirts of Masters and the Smocks of Maids, the Smocks of Mistresses and the Shirts of Apprentices, will be so promiscuously mixed together, as if they were laid abroad on purpose, to let the Publick see, that the Owners lay <hi>higgle de piggle de</hi> at home, after the same manner.</p>
+               <p>Gard'ners will be now as merry as so many Cuckows in <hi>March,</hi> and bring you the excrement of the Town to Market, in such a disguise, that People will buy it up for Food, and swallow it as greedily as a Sow does a S—r-nce. Taylors will be thought so knavish in this sharp Cucumber Season, that scarce any body will trust 'em with a bit of Work, but what they must trust for the doing on't; and a general Chain of Credit must run thro' all Trades, to support 'em one by another: he that has Money, if he has not the Wit to keep it, will have enow ready to borrow it out of his hands, upon large Interest, who will never have the Honesty to re<g ref="char:EOLhyphen"/>turn the Principle.</p>
+               <p>Most of Fortunes Minions, the lucky Ratlers of the Devil's Bones, will be gone to <hi>Tunbridge</hi> and the <hi>Bath;</hi> so that the Town will be very thin of Sharpers, and those Sharpers very thin that are in the Town. Also Bailiffs and Pettifoggers must take in the Wast-bands of their Breeches at least a handful, to
+<pb n="18" facs="tcp:153266:12"/> keep 'em on their A—s; for they will most of 'em become as Carrionly lean, by the latter end of this Month, as a Buck in Rutting time.</p>
+               <p>On the 19th. begins the <hi>Dog-days,</hi> in which sultry Season, the Fire foaming <hi>Dog-Star,</hi> with his fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>migerous Tongue, shall lick the verdency off the tops of Hills, parch the Corn-fields with his hot-liver'd Influence, sear the low Valleys, and dye the Face of <hi>Ceres</hi> as Tawny as a Gypsie.</p>
+               <p>
+                  <hi>Maidenheads</hi> will grow so rampant in this and the next Month, that those that are their Keepers, will be mightily puzled to continue 'em in a vertuous Subjection, at Nights and Mornings, they'll be given to such panting Fits, and unac<g ref="char:EOLhyphen"/>countable Uproars, that some of 'em will need as many Men to allay their Fury, as are necessary to hold down a lusty Fel<g ref="char:EOLhyphen"/>low in a Fit of the Falling-sickness. The married Woman too, notwithstanding the great heat of the Weather, will be apt at Night to creep so close to her Husband, that he won't be able to rest for her, till he has put himself into as great a Sweat, as if he had drank up a Treacle-Posset for his Supper.</p>
+            </div>
+            <div type="month">
+               <head>AUGUST.</head>
+               <epigraph>
+                  <q>
+                     <l>Now Country Lubbers whet their Harvest Tools,</l>
+                     <l>To drudge like Slaves, and to be paid like Fools.</l>
+                     <l>For Farmers get their Riches by the Pains</l>
+                     <l>Of those who do much Work for little Gains.</l>
+                  </q>
+               </epigraph>
+               <p>THE Rural Sons and Daughters of Plenty and Industry will now be every where as busie as so many Squirrils in a Nutting-season. Scithes and Sickles will be far more useful Weapons than either Sword or Pistol. Husbandmen, to show their Strength and Abilities, will down with every thing they come near; for what-ever Field they appear in, nothing will be able to stand against 'em; they will hack
+<pb n="19" facs="tcp:153266:12"/> and hue till they have cut off more Thousands in a Day, than were ever slain in Battel since <hi>William the Conqueror:</hi> And more Ears will be taken off in a Morning, than ever were forfeited in the Pillory since Perjury has been wink'd at.</p>
+               <p>There will be more Eating, Drinking, Pissing, and Sweat<g ref="char:EOLhyphen"/>ing, in this Month, than in any six Weeks in the two and fifty. Great Labour requires much Sustenance; and five Meals a Day will be as common in most Counties in <hi>England,</hi> as one in two Days to a Hackney-Writer in this Town, du<g ref="char:EOLhyphen"/>ring the long Vacation.</p>
+               <p>Fat plump young Maids will be of much more use to Far<g ref="char:EOLhyphen"/>mers in their Harvest-work, than thin Weather-beaten Thorn-backs, as dry as a Roll of Parchment; for the former will drip more at Rump and Arm-pits, in one Hours working, than a Surloin of Turnip-fed Beef shall do in two Hours roast<g ref="char:EOLhyphen"/>ing; which fertile Juice will Manure the Ground much bet<g ref="char:EOLhyphen"/>ter against next Season, than a Barrow full of Su—nce. Tho' the Weather will go near to be excessive hot, yet Farmers at their Harvest-Home, will make their Ovens much hotter; which, by the assistance of a Housewife, instead of a Midwife, will be deliver'd of so many Pies and Puddings, as are suffi<g ref="char:EOLhyphen"/>cient to make the Jaws wag of a gluttonous number of Horse-Godfathers and Godmothers, till their Bellies are satisfied; then the strong Drink will go about, and the blind Fidler play <hi>Bobbin Joan,</hi> till the Men are as Drunk as Brewers Swine, and the Wenches as Letcherous as She-Monkies.</p>
+               <p>The Hog-men at <hi>Islington</hi> will now be mighty busie in fatting up their Porkers with Guts and Garbage against <hi>Bar<g ref="char:EOLhyphen"/>thomew-Fair,</hi> and abundance of supernumerary Pigs, which their Sows can't fatten, will be put out to Nurse to Sp—l Bi—s, to be made fit for the Spit, and to be roasted by the Cooks in <hi>Smithfield,</hi> where they will be serv'd up as fat as Puppy-Dogs, with a Plate full of stew'd Flies, decoy'd by a little Sugar into a Sauce-Pan of destruction.</p>
+               <pb n="20" facs="tcp:153266:13"/>
+               <p>Tho' St. <hi>Bartholomew</hi>'s-Day happens this Year upon a <hi>Sun<g ref="char:EOLhyphen"/>day,</hi> yet you will find the following Fortnight will be never the less wicked for having so good a beginning. Whoring, Drinking, Playing the Rogue, as well as the Fool, eating Pig and Pork, cracking of Nuts, and picking Pockets will be as practicable as ever, tho' Drolls, the most innocent diver<g ref="char:EOLhyphen"/>sion of all the Pastimes of the Fair, will go near to be put down, thro' the industry of those who wisely prefer Modesty and Good Manners before Vice and Poverty. Bad Wine, worse Women, and intollerable Musick, will greatly abound in <hi>Smithfield</hi> and the Lanes adjacent, during this Fortnights Carnival. Physicians and Quack-Doctors will be very busie for a Month after.</p>
+            </div>
+            <div type="month">
+               <head>SEPTEMBER.</head>
+               <epigraph>
+                  <q>
+                     <l>Cullies from <hi>Bath</hi> and <hi>Tunbridge</hi> now repair</l>
+                     <l>To Town, much poorer Fools than e'er they were.</l>
+                     <l>Whilst Sharpers bluster with the Sums they've won,</l>
+                     <l>And look with Scorn on those they have undone.</l>
+                  </q>
+               </epigraph>
+               <p>THE Town will now begin to be much the fuller, tho' never a jot the Honester; and many Gentlemen and Ladies who went down to <hi>Tunbridge,</hi> &amp;c. to drink the Wa<g ref="char:EOLhyphen"/>ters for their Health, will have so paid off one anothers pissing Places, that they'll return to Town not half so sound as they went out on't; but must be forc'd to do three Weeks or a Months Penance upon a Stool of Repentance, enjoin'd 'em by a Physician, instead of a Priest, as an atonement for their Sins; so that the Stars, thro' their Bounty, have determin'd to be<g ref="char:EOLhyphen"/>stow in this Month Health to the Patient, Gold to the Physi<g ref="char:EOLhyphen"/>cian, and a T—d to the Chamber-maid.</p>
+               <p>The second of this Month will be the Day of Humiliation for the Fire of <hi>London;</hi> upon which we shall have great rail<g ref="char:EOLhyphen"/>ing against the Treachery and Barbarity of base and bloody
+<pb n="21" facs="tcp:153266:13"/> minded Papists; much talking in Town, amongst old grisly Fanaticks, of <hi>French</hi> Jesuits and Fire balls; great staring at the <hi>Monument,</hi> where the Judgment begun, and much Drinking, Swearing, Puning, and Quibling amongst St. <hi>Bartholomew</hi>'s Fools, at <hi>Spy-Corner,</hi> where the Fire ended.</p>
+               <p>On the 12th. of this Month the Sun enters <hi>Libra,</hi> which equitable Sign holds Day and Night in an equal Balance, at which time <hi>Autumnus</hi> creeps on like a Foot Pad, frights away Summer, the Years chief Safe-guard, knocks down her beau<g ref="char:EOLhyphen"/>tiful Attendants, and strips the Right Honourable the Lord <hi>Annus</hi> of all his Finery. He's the most errant <hi>Ragamuffin</hi> of all the four Quarters, that will not have, in a little time, so much as a Fig-leaf to cover his Nakedness; and therefore takes de<g ref="char:EOLhyphen"/>light to make every thing as naked as himself. The next Day but one after he begins to play his Pranks in our Horizon, he is not content with what Mischief he does himself, but in spight to Woods and Hedge Rows sends the Devil a Nutting.</p>
+               <p>Hunting, Coursing, Setting, and Shooting, will now grow very fashionable Sports amongst Gentlemen and Porchers; the Dear that's lost by the Hounds, will be but a poor Rascal amongst the Hunters; and the Hare that runs away from the Greyhounds, will be but a dry old Bitch with the Coursers; the Setter, when he misses his Partridge, will curse his Dog for his own over-sight; and the Fowler that misses his Mark, will blame the Shot or the Gun-powder: Warreners will be as proud of killing Pole-Cats, as a Beggar's pleas'd with crack<g ref="char:EOLhyphen"/>ing his Vermine; and Park-keepers will go near to catch Dear-stealers as the <hi>Scotch-man</hi> did the <hi>Tartar.</hi>
+               </p>
+               <p>About the latter end of this Month People begin to thrash their Walnut-Trees, which are said, like bad Wives, to grow the better by much Beating; if they do, 'tis pity either should want it, as long as the Tree can lend a Cudgel to correct the one, or the Wife a helping hand to bang the other, lest you find to your Sorrow, Children and Wives, as well as these kind of knotty Plants, may chance to be spoil'd for want of due Correction.</p>
+               <pb n="22" facs="tcp:153266:14"/>
+               <p>Poor Farmers now begin to Thrash out their Corn for their <hi>Michaelmas</hi>-Rent; and rich Farmers ingross it into their hands to encrease their Stocks against a time of Scarcity, which, if God won't send, according to their earnest Petitions, they'll make one themselves, by buying more in, and selling none out till they have rais'd Corn to their desired Price, before they will send any to Market; for which unconscionable Practises, may they be doom'd to eat nothing but Chaff Porridge and Bran Bread; their Drink be Whig, and their Beds Straw; and if this won't reclaim 'em, may their Horses die of the Murrain, their Hogs of the Measles, and their Poultry of the Pip, that they may never thrive by the Oppression of their Neighbours.</p>
+               <p>The Parson and the Farmer will be in great Contention about the <hi>Tythes,</hi> and both be equally studious to out-wit one ano<g ref="char:EOLhyphen"/>ther; but as near as I can guess, the Farmer will come by the worst on't; for he that can Cozen a Priest may be too cun<g ref="char:EOLhyphen"/>ning for the Devil.</p>
+               <p>
+                  <hi>Michaelmas-Day</hi> marches in the rear of the <hi>Month,</hi> accor<g ref="char:EOLhyphen"/>ding to his old Custom; by which I can easily foresee many Tenants will be very backward in the payment of their Rent, let the Landlord be never so forward to ask for it: Unreaso<g ref="char:EOLhyphen"/>nable Dealings will be now very practical; he that is able to pay his Rent, shall take his own time for the payment on't; but he that wants it, shall be forc'd to borrow it presently, or his Goods shall be seiz'd, if not a Goal made his Lodging.</p>
+            </div>
+            <div type="month">
+               <head>OCTOBER.</head>
+               <epigraph>
+                  <q>
+                     <l>Now Brush and Faggot fashionable grow,</l>
+                     <l>None the true joys of Wine without can know.</l>
+                     <l>But shun the Fire that lies in Tails of Wenches,</l>
+                     <l>Quench'd only by Apothecaries Drenches.</l>
+                  </q>
+               </epigraph>
+               <p>IN the beginning of this <hi>Month,</hi> there will be much talk, amongst the Citizens, of the foul Play in the <hi>Common-Hall,</hi>
+                  <pb n="23" facs="tcp:153266:14"/> and worse practice us'd elsewhere in the Election of a <hi>Mayor:</hi> Parties will spit their Venom at one another over their Coffee, with as much Indignation as a couple of Boar-Cats contend<g ref="char:EOLhyphen"/>ing for a Mistress: The Sons of the Church establish'd will talk big, but never think of shutting the Stable Door till the Steed is stol'n; whilst the Pismines of Toleration will dispatch their work without noise, and never quarrell about the Egg till they have first secur'd it in their own Possession.</p>
+               <p>If it happens not to be fair Weather, we shall have Rain enough about the middle of this <hi>Month,</hi> to make any prudent Man think a Camlet-Cloak a much better Garment than a pink'd Doublet; and that 'tis better sitting still in a matted Chamber, than taking the Air upon the River of <hi>Thames,</hi> or walking thro' the middle of <hi>Old-street. Muffs</hi> will now be more fashionable than <hi>Cains;</hi> and a Man may dance thro' the Dirt much better in a double soal'd Shooe, than the thinnest <hi>Spa<g ref="char:EOLhyphen"/>nish</hi>-Leather Pumps in Christendom.</p>
+               <p>The next remarkable Day in this Month is St. <hi>Luke</hi>'s, upon which the honest Fraternity of House-Painters, in Pious Me<g ref="char:EOLhyphen"/>mory of the Holy Evangelist, will as certainly be Drunk, as the best Liquor their Pockets can compass will be able to make 'em: There will be old drawing of Antick Heads, in Charcoal upon white Walls, when they are half Seas over; and old scoring of Circles, Semicircles, and straight Lines, with Chalk, in the Bar, if their Landlord takes not care to prevent 'em; for I find very few will take a Pencil between their Fingers, or thrust a Thumb into their Pallets, as long as either Money or Credit will give Colour to their Laziness.</p>
+               <p>On the 23d. begins <hi>Michaelmas-Term,</hi> upon which Day the Law and Equity resume the Scales of Justice into their hands, to weigh out to the Publick that address 'em, such a propor<g ref="char:EOLhyphen"/>tion of Right as their Cause will bear, if they have but Money to pay those Fees necessary for the obtaining it; if not, they may sue in <hi>Forma Pauperis</hi> till they are as poor in Houshold<g ref="char:EOLhyphen"/>stuff as <hi>Epictetus,</hi> who had nothing but an Earthen Lamp
+<pb n="24" facs="tcp:153266:15"/> for his Furniture; and except they meet with an honest Law<g ref="char:EOLhyphen"/>yer, which is somewhat difficult to be found, they'll at last be as much the better, as if they had spent their time in so<g ref="char:EOLhyphen"/>liciting a Courtier for a Place, without a Peny in their Pockets.</p>
+               <p>The 25th. of this <hi>Month</hi> will be a Day of great Jollity a<g ref="char:EOLhyphen"/>mong the serviceable Fraternity of Shooemakers, in honour of the fam'd Memory of <hi>Crispin:</hi> More bak'd Legs of Beef, and boil'd Buttocks, will be devour'd by 'em about Noon, than Gammons of Bacon in a whole <hi>Easter</hi> Week, or Surloins of Roast Beef upon a <hi>Christmas-Day.</hi> Great Drinking, Playing and Wrangling at Shovel-board and All-Fours till Ten at Night, and many bloody Noses given when Drunk, in contending who Cuts-out truest, Sows quickest, and makes the best Work: Loud Peals rung about Eleven by their Wives, for 'em to come home to Bed; and great Repentance next Morning, with aking Heads, for their over-nights Drunkenness.</p>
+               <p>On the 30th. my Lord-Mayor's Horse will carry his Master into his May'ralty; in which being once seated, twenty stronger Horses than ever drew against <hi>Sampson,</hi> can't pull him out till that Day Twelve-month: The Triumphs of the City will be display'd with as much Splendor as the City Poet and Painter, by laying their Heads together, are able to Project: Abun<g ref="char:EOLhyphen"/>dance of very fine rich Lacker'd Past-board pieces of Pagean<g ref="char:EOLhyphen"/>try, will be carry'd upon Mens Heads, more gloriously adorn'd than a Country Milk-Pail on a <hi>May-Day.</hi> Truth and Justice perhaps may be represented by a couple of <hi>Black-Fryars</hi> Bum<g ref="char:EOLhyphen"/>sitters; an old blind Bag-Piper, with his Rags hid under a Tin<g ref="char:EOLhyphen"/>sey-Gown, truss'd up into an <hi>Apollo,</hi> Bells ringing, Dogs bark<g ref="char:EOLhyphen"/>ing, Guns roaring, and Mob shouting, will add much Confu<g ref="char:EOLhyphen"/>sion to the Solemnity of the Day, which will be merrily con<g ref="char:EOLhyphen"/>cluded with Gluttonous Eating, inebrious Drinking, the Song of <hi>Four and Twenty Fidlers,</hi> a Nap after Supper, and so <hi>Good Night to ye.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <pb n="25" facs="tcp:153266:15"/>
+               <head>NOVEMBER.</head>
+               <epigraph>
+                  <q>
+                     <l>Fire and Good Liquor, 'tis by all agreed,</l>
+                     <l>Defend you from the Cold; but when a Bed,</l>
+                     <l>A Woman full of Beauty and Delight,</l>
+                     <l>Is better far, to keep you warm all Night.</l>
+                  </q>
+               </epigraph>
+               <p>THis <hi>Month</hi> makes its entrance upon <hi>All-Saints,</hi> as if it had been in Purgatory to be cleans'd of <hi>Gun-Powder-Treason-Day,</hi> ever since this time Twelve-month, and was just pray'd out by some of the <hi>Romish</hi> Clergy, because the want of it should not confound the <hi>Calendar,</hi> by displacing of <hi>Christ<g ref="char:EOLhyphen"/>mas.</hi> 'Tis conjectur'd, by some Persons of very great Fore<g ref="char:EOLhyphen"/>sight, the crawling of Souls out of Purgatory, upon this Day, will occasion a great scarcity of Crabs, for so many will be bought, to be sowed up in Tiffany, for the service of their Chappels, that we shall have very few hawk'd about Streets for six or eight a Peny, till the holy Cheat is compleated.</p>
+               <p>Upon the 4th. of this <hi>Month</hi> will be great talk of our re<g ref="char:EOLhyphen"/>markable deliverance from <hi>Popery</hi> and <hi>Slavery,</hi> begun upon this Day Twelve Years; and by some politick Grey-heads of the nonthinking Fraternity; great enquiry will be made what became of the many Thousands of Monsters brought out of <hi>Terra Incognita,</hi> cover'd with Bear-skins, and arm'd with double <hi>Harquebusses;</hi> and were Soldiers of such Experience, that they had been in all the subterranean Wars that had hap<g ref="char:EOLhyphen"/>pen'd this fifty Years, without so much as having been shaven, that their Beards hung down to their Saddle-skirts, as they were mounted on Horse-back; also what is become of the vast number of bloody-minded <hi>Irish,</hi> who were cutting the Throats of all the People in the Kingdom in one Night, and were yet at last so merciful that they hurt no body; about such like Affairs, and Prayers for our Deliverance, will the Day be spent succeeded by another Holiday.</p>
+               <pb n="26" facs="tcp:153266:16"/>
+               <p>The 5th. of <hi>November</hi> (as the Song says) most Men will remember, but few the <hi>Thirtieth</hi> of <hi>January:</hi> This Day, a<g ref="char:EOLhyphen"/>mongst all holy, pious, and well-reformed Christians, is the greatest Thanksgiving in the whole Year; and rather than the Streets should want Bon-fires to light the Mob into a re<g ref="char:EOLhyphen"/>membrance of <hi>Guido Faux</hi> and his dark Lanthorn, they will heartily bestow some of their necessary Houshold-stuff, that their Zeal may blaze forth amongst their Neighbours, for fear of being wrongfully branded with the odious Title of Church-Papist. Many a bitter word will be belch'd out against Popery this Night, o'er half a Pint of Canary; and many a Health drank to the noble Prince that so bravely defended us from the Miseries that attended it.</p>
+               <p>The 19th. of this Month, will prove another true Protestant Holiday, dedicated to the Pious Memory of that <hi>Antipapistical</hi> Princess and Virgin-Preserver of the Reform'd Churches, Queen <hi>Elizabeth:</hi> This Night will be a great Promoter of the Tallow-Chandlers welfare; for marvellous Illuminations will be set forth in every Window, as Emblems of her shining Vertues; and will be stuck in Clay to put the World in mind, that Grace, Wisdom, Beauty, and Virginity, were unable to preserve the best of Women from Mortality.</p>
+               <p>The 22d. of this <hi>Month</hi> is Dedicated to the Memory of a famous <hi>Roman</hi> Virgin St. <hi>Cecilia,</hi> (which shows there may be Maids of any Religion) who was so very famous for play<g ref="char:EOLhyphen"/>ing on the <hi>Jews-Trump,</hi> that even the <hi>Protestant</hi> Musicians, as well as those of her own Church, have chosen her for their Patroness. On this Day there will be more crowding to St. <hi>Bridget</hi>'s Church, to hear one of the Stewards Anthems, than ever there was to hear a Bishop preach a Ser<g ref="char:EOLhyphen"/>mon; which shows, that the Soul of Man is much more de<g ref="char:EOLhyphen"/>lighted with Musick's Harmony, than with School-Divinity. Abundance of Wine and Wild-Fowl will be devoured by the Brethren of the String; and if any part of the Musick be pro<g ref="char:EOLhyphen"/>per
+<pb n="27" facs="tcp:153266:16"/> for the Foot 'twill be highly commended by the Dancing-Masters. Gentry may be known by their Deportment; but whoever is affected with a Lac'd-Hat, you may be sure is either a Performer, a Player, or a Master of the Step.</p>
+               <p>St. <hi>Andrew,</hi> the <hi>Scotch</hi> Patron, brings up the rear of this <hi>Month.</hi> Oatmeal Hasty-pudding, Clap-bread, and Bonny-clapper, will, upon this Day, go as merrily down in <hi>Scotland,</hi> as Red-Herrings and Leak-Porridge upon St. <hi>David</hi>'s-Day in <hi>Wales;</hi> and many a bonny Lad in this Town, will have a Cross in his Hat, that has not one in his Pocket.</p>
+            </div>
+            <div type="month">
+               <head>DECEMBER.</head>
+               <epigraph>
+                  <q>
+                     <l>The Merry <hi>Christmas</hi> Season now draws near,</l>
+                     <l>When all fare well, that can afford good Chear.</l>
+                     <l>But he that has no Coin or Credit got,</l>
+                     <l>May play at Cards with his own Wife for nought.</l>
+                  </q>
+               </epigraph>
+               <p>SUch cold Weather is likely to attend this <hi>Month,</hi> that a Chaldron of Coals will be as welcome a Present to a poor Man, with a large Family, as a lusty Male Bedfellow to a brisk young Widdow, with a large Concupiscence. Very little Ceremony will be us'd in an Ale-house Kitchin, amongst Porters and Carmen; For he that has a warm Seat next the Fire, will scarcely, with Cap in hand, desire another to accept on't. Woodmongers and Colliers will grind the Poor by their Extortion, till they make 'em shiver for want of Mo<g ref="char:EOLhyphen"/>ney, to buy Firing. And Vintners will be so unconscionable in the size of Faggots, that a Man may warm his Inside at a less expence in a Brandy-Shop, than he can his out-side in a Tavern.</p>
+               <p>On the 11th. of this <hi>Month</hi> the Sun enters <hi>Capricorn,</hi> and makes the Winter-Solstice, at which time, according to Com<g ref="char:EOLhyphen"/>putation of those Wise-men of <hi>Gotham,</hi> Astrologers, the <hi>Hy<g ref="char:EOLhyphen"/>emsial</hi>
+                  <pb n="28" facs="tcp:153266:17"/> Quarter has its beginning; nor will they allow till then, that the Hoary Churl, crown'd with his Wreath of wither'd Carrots, comes blowing of his Nails into our Hori<g ref="char:EOLhyphen"/>zon, tho' a <hi>Dutch-Woman,</hi> were she in <hi>England,</hi> would be glad, six Weeks before the time, to keep a Stove under her Petti<g ref="char:EOLhyphen"/>coats, to keep her <hi>Modicum</hi> from freezing.</p>
+               <p>In the Week before <hi>Christmas,</hi> most Families will be pos<g ref="char:EOLhyphen"/>sess'd with such a Spirit of Cleanliness, that the Servant Wench that is lazy, and has a Housewifely Scold to her Mistress, will be in as bad a Purg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tory, till her Work's over, as a Fellow that drives tir'd Hogs with a Whip, there being nothing but Grunting, Squeaking, and Correction, till with much Pains he has forc'd 'em to the end of their Journey.</p>
+               <p>On the 25th. according to old Custom, <hi>Christmas</hi> makes its entrance, attended with a Noble <hi>English</hi> Train of roasted Surloins for his Body-Guard, who every one advance to his proper Post the Table, with a Mess of scalding Plumb-Por<g ref="char:EOLhyphen"/>ridge, carry'd before him to give notice of his coming. A Detachment of Minc'd Pies, by General <hi>Coquus,</hi> will be or<g ref="char:EOLhyphen"/>der'd to bring up the Rear; who, like a parcel of true <hi>English</hi> Worthies, will suffer themselves to be cut in Pieces in this Christian War, without flinching; the Enemy they engage with will be an Army of Cannibals, arm'd with Knife and Fork, who eat what they destroy, and always fight upon their A—s till they have gain'd the Victory. The Blood of abun<g ref="char:EOLhyphen"/>dance of <hi>French</hi> Grapes will be also spilt upon this Religious Occasion; to which, because they are of <hi>Romish</hi> Extract, our <hi>Protestant</hi> Priest will shew no Mercy; and the Battel thus begun, will be continued in Skirmishes, till the twelve Days be over.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
